@@ -1,13 +1,13 @@
 1
 2.5
 Cartel de García Santesmases
-historia 0.95 españa 0.9 fdi 0.95
+historia 0.95 espana 0.9 fdi 0.95
 715 50
 
 2
 2
 Supercomputador Cerebro
-historia 0.6 españa 0.7 hardware 0.8 fdi 0.7 pcs 0.5
+historia 0.6 espana 0.7 hardware 0.8 fdi 0.7 pcs 0.5
 675 50
 
 3
@@ -19,7 +19,7 @@ historia 0.3 pcs 0.5
 4
 1.5
 IEA-FI 1973: Primer minicomputador de España
-historia 0.7 españa 0.8 pcs 0.8
+historia 0.7 espana 0.8 pcs 0.8
 695 123
 
 5
@@ -37,13 +37,13 @@ fdi 0.3 videojuegos 0.5 cine 0.3
 7
 0.75
 Cursos de automática de García Santesmases
-docencia 0.4 españa 0.3
+docencia 0.4 espana 0.3
 595 123
 
 8
 1.5
 Enseñanza asistida por computador
-docencia 0.8 fdi 0.7 españa 0.3 historia 0.3
+docencia 0.8 fdi 0.7 espana 0.3 historia 0.3
 530 50
 
 9
@@ -163,7 +163,7 @@ redes 0.7
 28
 4
 Ordenadores Amstrad
-videojuegos 0.95 curiosidad 0.6 arte 0.8 españa 0.8
+videojuegos 0.95 curiosidad 0.6 arte 0.8 espana 0.8
 80 213
 
 29
@@ -175,7 +175,7 @@ videojuegos 0.95 curiosidad 0.7
 30
 0.7
 Ordenadores Sony, Amstrad...
-historia 0.4 videojuegos 0.8 españa 0.3
+historia 0.4 videojuegos 0.8 espana 0.3
 220 213
 
 31
