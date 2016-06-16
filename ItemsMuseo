@@ -5,79 +5,79 @@ historia 0.95 espana 0.9 fdi 0.95
 715 50
 
 2
-2
+2.5
 Supercomputador Cerebro
-historia 0.6 espana 0.7 hardware 0.8 fdi 0.7 pcs 0.5
+historia 0.8 espana 0.85 hardware 0.85 fdi 0.85 pcs 0.7
 675 50
 
 3
-1.5
+1.75
 IBM Versión comercial
-historia 0.3 pcs 0.5
+historia 0.3 pcs 0.7 fdi 0.7
 625 50
 
 4
-1.5
+1.75
 IEA-FI 1973: Primer minicomputador de España
-historia 0.7 espana 0.8 pcs 0.8
+historia 0.7 españa 0.8 pcs 0.8
 695 123
 
 5
-2.5
+2.75
 Motorola Exor-ciser, ONTEL OP 1 (1979): Procesador de textos integrado, Centro de cálculo HP 9430A
 fdi 0.3 docencia 0.2
 645 123
 
 6
-1.5
+1.75
 IBM 7090 (1959) Primer computador comercial transistorizado
 fdi 0.3 videojuegos 0.5 cine 0.3
 595 50
 
 7
-0.75
+1.25
 Cursos de automática de García Santesmases
-docencia 0.4 espana 0.3
+docencia 0.6 espana 0.4
 595 123
 
 8
-1.5
+2
 Enseñanza asistida por computador
 docencia 0.8 fdi 0.7 espana 0.3 historia 0.3
 530 50
 
 9
-1.5
+1.75
 Calculadoras
-cine 0.2 ciencias 0.4
+cine 0.2 ciencias 0.5
 530 123
 
 10
-0.5
+1
 Friden EC-132 (1965) + Tubo de Rayos Catódicos
-hardware 0.6
+hardware 0.7 pcs 0.3 ciencias 0.2
 500 50
 
 11
-0.5
+1
 Calculadora de raíces cuadradas
-curiosidad 0.5 ciencias 0.3
+curiosidad 0.5 ciencias 0.3 hardware 0.2
 470 50
 
 12
-0.5
+0.75
 PDA's y tablets
 ciencias 0.5
 420 123
 
 13
-0.5
+0.75
 Periféricos de IBM
-perifericos 0.8
+perifericos 0.7
 420 50
 
 14
-1.75
+2.75
 Arte por computadora
 fdi 0.8 arte 0.9 ciencias 0.9
 390 50
@@ -89,73 +89,73 @@ cine 0.7 curiosidad 0.6
 350 50
 
 16
-0.75
+1.75
 Teléfonos
-curiosidad 0.5
+curiosidad 0.5 fdi 0.3
 375 123
 
 17
-0.5
+1
 Sony AIBO ERS-7 (2003): Perro robótico
 videojuegos 0.3 curiosidad 0.3
 350 123
 
 18
-1.5
+1.75
 PDP 11
 fdi 0.3 curiosidad 0.2 redes 0.8
 320 50
 
 19
-0.75
+1
 Ordenadores circa 1990 (Amstrad, Tulip,Tamdon,Toshiba)
-pcs 0.9 curiosidad 0.3
+pcs 0.7 curiosidad 0.3
 300 123
 
 20
-1.25
+1.5
 Memorex 1337 + Fichas perforadas
-pcs 0.9
+pcs 0.8 historia 0.3 curiosidad 0.4 cine 0.2
 260 50
 
 21
-0.7
+1
 Carteles
 docencia 0.4
 220 50
 
 22
-0.75
+1
 HP 21MX + Cinta de papel
-redes 0.7 cine 0.5
+pcs 0.7 redes 0.4 cine 0.35
 220 123
 
 23
-1
+1.5
 Simulador de Centrales Térmicas
-curiosidad 0.6 cine 0.5 docencia 0.8
+curiosidad 0.7 cine 0.4 docencia 0.8 perifericos 0.2
 160 123
 
 24
-0.8
+1
 IBM-PC XT 1983
 pcs 0.8
 160 50
 
 25
-0.8
+1
 Plotter HP9872C
-pcs 0.7
+pcs 0.5
 120 123
 
 26
-0.8
+1
 HP 9000/319
-pcs 0.9
+pcs 0.65
 120 50
 
 27
-0.7
+1
 HP 1000 (1982)
 redes 0.7
 80 123
@@ -163,149 +163,149 @@ redes 0.7
 28
 4
 Ordenadores Amstrad
-videojuegos 0.95 curiosidad 0.6 arte 0.8 espana 0.8
+videojuegos 0.95 curiosidad 0.7 arte 0.85 espana 0.85 pcs 0.8
 80 213
 
 29
 3
 Consolas Atari y Nintendo
-videojuegos 0.95 curiosidad 0.7
+videojuegos 0.95 curiosidad 0.3 fdi 0.6 cine 0.3 historia 0.3
 150 213
 
 30
-0.7
+1.5
 Ordenadores Sony, Amstrad...
-historia 0.4 videojuegos 0.8 espana 0.3
+historia 0.3 videojuegos 0.85 espana 0.4 pcs 0.8
 220 213
 
 31
-2
+2.25
 Máquina recreativa
 curiosidad 0.5 cine 0.7 videojuegos 0.95
 250 285
 
 32
-0.7
+1.25
 Cables
-fdi 0.6 hardware 0.8
+fdi 0.4 hardware 0.6
 290 285
 
 33
-0.7
+1.25
 Procesadores de Intel
-fdi 0.6 hardware 0.95
+fdi 0.4 hardware 0.95
 335 285
 
 34
-2
+2.25
 IBM 3097: Refrigeración líquida
 ciencias 0.8 hardware 0.7
 375 285
 
 35
-0.8
+0.75
 Disco Duro 8 GB
-almacenamiento 0.9
+almacenamiento 0.85
 405 285
 
 36
 1.5
 Plato 6 MB
-cine 0.5 almacenamiento 0.95
+cine 0.5 almacenamiento 0.95 historia 0.2
 440 285
 
 37
-0.8
+1.25
 Memorias de ferrita y otros dispositivos de almacenamiento
-almacenamiento 0.8
+almacenamiento 0.8 historia 0.3
 480 285
 
 38
-0.8
+1.5
 Transistores, ROM, Circuitos integrados, Obleas
-hardware 0.95
+hardware 0.95 curiosidad 0.3 almacenamiento 0.3
 530 213
 
 39
-0.8
+1.25
 Periféricos y conectividad
-redes 0.7 cine 0.3
+redes 0.3 cine 0.3 perifericos 0.5
 565 213
 
 40
-0.8
+1
 Disquetes 3½, 5¼ 
-perifericos 0.9
+perifericos 0.9 cine 0.2
 610 213
 
 41
-0.8
+1
 Impresoras
-perifericos 0.9
+perifericos 0.7
 640 213
 
 42
-0.8
+1
 Periféricos: ratones, teclados, lapiz
 perifericos 0.8
 670 213
 
 43
-0.8
+1
 Discos Duros
-almacenamiento 0.8
+almacenamiento 0.85
 700 213
 
 44
-0.8
-Discos Duros
-almacenamiento 0.8
+1
+Discos Duros Antiguos
+almacenamiento 0.9
 700 285
 
 45
-2
+2.5
 PC's
-pcs 0.95 historia 0.3 videojuegos 0.2
+pcs 0.95 historia 0.3 videojuegos 0.35
 675 390
 
 46
-1.5
+2
 IBM 5110 Computing System
-pcs 0.95
+pcs 0.95 perifericos 0.3
 500 390
 
 47
-0.8
+1.25
 DEC AlphaServer 2100
-servidores 0.95 redes 0.8
+servidores 0.85 redes 0.8
 260 390
 
 48
-1.5
+2
 Ordenadores de Apple
-pcs 0.95 cine 0.6 curiosidad 0.6
+pcs 0.95 cine 0.5 curiosidad 0.5
 210 390
 
 49
-0.8
+1.25
 Servidores Unix
 servidores 0.9 redes 0.8
 160 390
 
 50
-1.7
+2
 Cray Y-MP EL (1991)
-servidores 0.9
+servidores 0.9 hardware 0.6
 570 625
 
 51
-0.8
+1.25
 Origin 2000
-fdi 0.8 servidores 0.8
+fdi 0.7 servidores 0.8
 620 625
 
 52
-0.8
+1
 Servidores actuales
-servidores 0.95
+servidores 0.9
 670 625
